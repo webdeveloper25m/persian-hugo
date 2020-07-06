@@ -1,4 +1,4 @@
-baseURL = "https://www.my-blog-test.com"
+baseURL = "https://www.my-blog-test.netlify.com"
 disqusShortname = ""
 languageCode = "en-us"
 languageName = "En"
